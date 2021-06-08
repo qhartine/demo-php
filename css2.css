@@ -1,0 +1,53 @@
+
+h1 {
+	text-align: center;
+	font-family: arial;
+ 	font-weight: bold;
+ 	text-transform: uppercase;
+ 	color: #a80000;
+ 	background-color: #ffbd17
+}
+
+body {background-color: #a80000;}
+
+.img-circle {height: 250px; width: 250px; border: 5px; border-style: solid; border-color:#ffbd17; margin: 0 auto;}
+
+
+
+.div1 {
+	margin: auto;
+  	width: 50%;
+ 	border: none;
+ 	text-align: center;
+ 	font-family: anime ace;
+ 	color: #ffbd17;
+
+ }
+
+ .div2 {
+ 	margin: auto;
+  	width: 50%;
+ 	border: none;
+ 	text-align: center;
+ 	font-family: anime ace;
+ 	font-weight: bold;
+ 	font-size: 20px;
+ 	color: #ffbd17;
+ }
+
+ .img2 {
+	display: block; margin: 0 auto;" 
+ }
+
+ .coursep {font-family: anime ace; 
+	font-size: 20px;
+	line-height: 30px; 
+	color:#ffbd17; 
+	margin:auto; 
+	width:50%; 
+	text-align: center;
+	font-weight: bold;}
+	
+.buttons{
+ 	text-align: center;
+ }

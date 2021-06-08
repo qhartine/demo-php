@@ -1,0 +1,50 @@
+h1 {font-family: bahnschrift; text-align: center; color:white;}
+
+body {background-image: url("img/pic 2.jpg");}
+
+.coursep {font-family: bahnschrift; 
+	font-size: 20px;
+	line-height: 30px; 
+	color:white; 
+	margin:auto; 
+	width:50%; 
+	text-align: center;}
+
+.img-circle {border-radius: 50%; height: 250px; width: 250px; display: block; margin: 0 auto;}
+
+.img2 {
+	display: block; margin: 0 auto;" 
+ }
+
+.div0 {
+  	margin: auto;
+  	width: 50%;
+ 	border: none;
+ }
+
+.div1 {
+	float: left;
+	width: 40%;
+ 	font-family: bahnschrift;
+ 	color: white;
+ 	text-align: center;
+ 	top: 50%;
+ 	left: 50%;
+ }
+ .div2 {
+ 	width: 60%;
+ 	float: right;
+ 	font-family: bahnschrift;
+ 	font-size: 20px;
+ 	color: white;
+ 	line-height: 30px;
+ 	vertical-align: middle;
+ 	text-align: center;
+ }
+ .clear{
+ 	clear: both;
+ }
+
+.buttons{
+ 	text-align: center;
+ }
